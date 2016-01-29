@@ -1,6 +1,10 @@
 # lc2casp
 A translator for logic programs with constraint atoms to CASP.
 
+## Download
+To download pre-compiled binary releases, check the releases page
+* [Releases](https://github.com/lc2casp/lc2casp/releases)
+
 ## Usage
 The basic usage to ground, translate, and solve logic programs with constraint atoms is
 ```bash
