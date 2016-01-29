@@ -1,0 +1,2 @@
+mzn2fzn -O- --output-to-stdout -G clingcon /mnt/scratch/ostrowsk/MINIZINK/combinedmznc2015_probs/freepizza/freepizza.mzn._pizza6.dzn.mzn  > t.fzn
+./fz t.fzn
