@@ -2,7 +2,7 @@
 A translator for logic programs with constraint atoms to CASP.
 
 ## Download
-To download pre-compiled binary releases, check the releases page
+Check the releases page for pre-compiled binaries of lc2casp and an extended version of the paper about default reasoning with constraints.
 * [Releases](https://github.com/lc2casp/lc2casp/releases)
 
 ## Usage
